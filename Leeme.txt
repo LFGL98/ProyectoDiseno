@@ -1,0 +1,3 @@
+String URL= "jdbc:mysql://localhost:3306/refaccionaria";
+            String USERNAME ="root";
+            String PASSWORD ="12345";
